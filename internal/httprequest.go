@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/cnvic/huobi_golang/logging/perflogger"
+	"github.com/cnvic/huobi_golang/v3/logging/perflogger"
 )
 
 func HttpGet(url string) (string, error) {

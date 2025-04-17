@@ -1,6 +1,6 @@
 package market
 
-import "github.com/cnvic/huobi_golang/pkg/model/base"
+import "github.com/cnvic/huobi_golang/v3/pkg/model/base"
 
 type SubscribeTickerResponse struct {
 	base.WebSocketResponseBase

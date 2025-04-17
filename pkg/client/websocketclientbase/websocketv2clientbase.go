@@ -5,12 +5,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cnvic/huobi_golang/internal/gzip"
-	"github.com/cnvic/huobi_golang/internal/model"
-	"github.com/cnvic/huobi_golang/internal/requestbuilder"
-	"github.com/cnvic/huobi_golang/logging/applogger"
-	"github.com/cnvic/huobi_golang/pkg/model/auth"
-	"github.com/cnvic/huobi_golang/pkg/model/base"
+	"github.com/cnvic/huobi_golang/v3/internal/gzip"
+	"github.com/cnvic/huobi_golang/v3/internal/model"
+	"github.com/cnvic/huobi_golang/v3/internal/requestbuilder"
+	"github.com/cnvic/huobi_golang/v3/logging/applogger"
+	"github.com/cnvic/huobi_golang/v3/pkg/model/auth"
+	"github.com/cnvic/huobi_golang/v3/pkg/model/base"
 	"github.com/gorilla/websocket"
 )
 

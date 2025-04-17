@@ -1,10 +1,10 @@
 package crossmarginclientexample
 
 import (
-	"github.com/cnvic/huobi_golang/config"
-	"github.com/cnvic/huobi_golang/logging/applogger"
-	"github.com/cnvic/huobi_golang/pkg/client"
-	"github.com/cnvic/huobi_golang/pkg/model/margin"
+	"github.com/cnvic/huobi_golang/v3/config"
+	"github.com/cnvic/huobi_golang/v3/logging/applogger"
+	"github.com/cnvic/huobi_golang/v3/pkg/client"
+	"github.com/cnvic/huobi_golang/v3/pkg/model/margin"
 )
 
 func RunAllExamples() {

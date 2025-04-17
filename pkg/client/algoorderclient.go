@@ -4,10 +4,10 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/cnvic/huobi_golang/internal"
-	"github.com/cnvic/huobi_golang/internal/requestbuilder"
-	"github.com/cnvic/huobi_golang/pkg/model"
-	"github.com/cnvic/huobi_golang/pkg/model/algoorder"
+	"github.com/cnvic/huobi_golang/v3/internal"
+	"github.com/cnvic/huobi_golang/v3/internal/requestbuilder"
+	"github.com/cnvic/huobi_golang/v3/pkg/model"
+	"github.com/cnvic/huobi_golang/v3/pkg/model/algoorder"
 )
 
 // Responsible to operate algo order

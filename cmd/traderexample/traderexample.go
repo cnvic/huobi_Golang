@@ -3,10 +3,10 @@ package traderexample
 import (
 	"fmt"
 
-	"github.com/cnvic/huobi_golang/config"
-	"github.com/cnvic/huobi_golang/logging/applogger"
-	"github.com/cnvic/huobi_golang/pkg/client/marketwebsocketclient"
-	"github.com/cnvic/huobi_golang/pkg/model/market"
+	"github.com/cnvic/huobi_golang/v3/config"
+	"github.com/cnvic/huobi_golang/v3/logging/applogger"
+	"github.com/cnvic/huobi_golang/v3/pkg/client/marketwebsocketclient"
+	"github.com/cnvic/huobi_golang/v3/pkg/model/market"
 )
 
 func RunAllExamples() {

@@ -1,11 +1,11 @@
 package algoorderclientexample
 
 import (
-	"github.com/cnvic/huobi_golang/config"
-	"github.com/cnvic/huobi_golang/logging/applogger"
-	"github.com/cnvic/huobi_golang/pkg/client"
-	"github.com/cnvic/huobi_golang/pkg/model"
-	"github.com/cnvic/huobi_golang/pkg/model/algoorder"
+	"github.com/cnvic/huobi_golang/v3/config"
+	"github.com/cnvic/huobi_golang/v3/logging/applogger"
+	"github.com/cnvic/huobi_golang/v3/pkg/client"
+	"github.com/cnvic/huobi_golang/v3/pkg/model"
+	"github.com/cnvic/huobi_golang/v3/pkg/model/algoorder"
 )
 
 func RunAllExamples() {

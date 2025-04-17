@@ -5,10 +5,10 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/cnvic/huobi_golang/internal"
-	"github.com/cnvic/huobi_golang/internal/requestbuilder"
-	"github.com/cnvic/huobi_golang/pkg/model"
-	"github.com/cnvic/huobi_golang/pkg/model/market"
+	"github.com/cnvic/huobi_golang/v3/internal"
+	"github.com/cnvic/huobi_golang/v3/internal/requestbuilder"
+	"github.com/cnvic/huobi_golang/v3/pkg/model"
+	"github.com/cnvic/huobi_golang/v3/pkg/model/market"
 )
 
 // Responsible to get market information

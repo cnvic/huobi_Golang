@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/cnvic/huobi_golang/logging/applogger"
-	"github.com/cnvic/huobi_golang/pkg/client/websocketclientbase"
-	"github.com/cnvic/huobi_golang/pkg/model/order"
+	"github.com/cnvic/huobi_golang/v3/logging/applogger"
+	"github.com/cnvic/huobi_golang/v3/pkg/client/websocketclientbase"
+	"github.com/cnvic/huobi_golang/v3/pkg/model/order"
 )
 
 // Responsible to handle trade clear from WebSocket

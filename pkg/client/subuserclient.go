@@ -7,12 +7,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/cnvic/huobi_golang/internal"
-	"github.com/cnvic/huobi_golang/internal/requestbuilder"
-	"github.com/cnvic/huobi_golang/pkg/model"
-	"github.com/cnvic/huobi_golang/pkg/model/account"
-	"github.com/cnvic/huobi_golang/pkg/model/subuser"
-	"github.com/cnvic/huobi_golang/pkg/model/wallet"
+	"github.com/cnvic/huobi_golang/v3/internal"
+	"github.com/cnvic/huobi_golang/v3/internal/requestbuilder"
+	"github.com/cnvic/huobi_golang/v3/pkg/model"
+	"github.com/cnvic/huobi_golang/v3/pkg/model/account"
+	"github.com/cnvic/huobi_golang/v3/pkg/model/subuser"
+	"github.com/cnvic/huobi_golang/v3/pkg/model/wallet"
 )
 
 // Responsible to operate wallet

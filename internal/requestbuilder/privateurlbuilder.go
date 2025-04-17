@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/cnvic/huobi_golang/pkg/model"
+	"github.com/cnvic/huobi_golang/v3/pkg/model"
 )
 
 type SignerInterface interface {

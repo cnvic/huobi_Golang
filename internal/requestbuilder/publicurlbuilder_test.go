@@ -3,7 +3,7 @@ package requestbuilder
 import (
 	"testing"
 
-	"github.com/cnvic/huobi_golang/pkg/model"
+	"github.com/cnvic/huobi_golang/v3/pkg/model"
 )
 
 func TestPublicUrlBuilder_Build_NoRequestParameter_Success(t *testing.T) {

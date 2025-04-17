@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cnvic/huobi_golang/internal/gzip"
-	"github.com/cnvic/huobi_golang/internal/model"
-	"github.com/cnvic/huobi_golang/logging/applogger"
+	"github.com/cnvic/huobi_golang/v3/internal/gzip"
+	"github.com/cnvic/huobi_golang/v3/internal/model"
+	"github.com/cnvic/huobi_golang/v3/logging/applogger"
 	"github.com/gorilla/websocket"
 )
 

@@ -3,8 +3,8 @@ package requestbuilder
 import (
 	"time"
 
-	"github.com/cnvic/huobi_golang/internal/model"
-	model2 "github.com/cnvic/huobi_golang/pkg/model"
+	"github.com/cnvic/huobi_golang/v3/internal/model"
+	model2 "github.com/cnvic/huobi_golang/v3/pkg/model"
 )
 
 type WebSocketV2RequestBuilder struct {

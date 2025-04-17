@@ -3,7 +3,7 @@ package auth
 import (
 	"encoding/json"
 
-	"github.com/cnvic/huobi_golang/pkg/model/base"
+	"github.com/cnvic/huobi_golang/v3/pkg/model/base"
 )
 
 type WebSocketV2AuthenticationResponse struct {
