@@ -1,6 +1,6 @@
-module github.com/huobirdcenter/huobi_golang
+module github.com/cnvic/huobi_golang
 
-go 1.22.0
+go 1.24.0
 
 toolchain go1.23.1
 

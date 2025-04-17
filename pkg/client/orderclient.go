@@ -5,10 +5,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/huobirdcenter/huobi_golang/internal"
-	"github.com/huobirdcenter/huobi_golang/internal/requestbuilder"
-	"github.com/huobirdcenter/huobi_golang/pkg/model"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/order"
+	"github.com/cnvic/huobi_golang/internal"
+	"github.com/cnvic/huobi_golang/internal/requestbuilder"
+	"github.com/cnvic/huobi_golang/pkg/model"
+	"github.com/cnvic/huobi_golang/pkg/model/order"
 )
 
 // Responsible to operate on order
